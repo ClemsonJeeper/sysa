@@ -1,2 +1,5 @@
-sysa
-====
+SYSA Project
+============
+
+Future documentation here.
+
